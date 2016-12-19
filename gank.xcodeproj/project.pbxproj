@@ -11,7 +11,6 @@
 		AD096D1B1DFD701E00DE99E5 /* GankTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD096D1A1DFD701E00DE99E5 /* GankTableViewCell.swift */; };
 		AD096D1D1DFD725200DE99E5 /* GankData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD096D1C1DFD725200DE99E5 /* GankData.swift */; };
 		AD0C0BE21DFD9B27004A7ED0 /* UIKit+AFNetworking in Resources */ = {isa = PBXBuildFile; fileRef = AD0C0BE11DFD9B27004A7ED0 /* UIKit+AFNetworking */; };
-		AD0C0BE71DFDAA64004A7ED0 /* AFNetworking in Resources */ = {isa = PBXBuildFile; fileRef = AD0C0BE31DFD9CC4004A7ED0 /* AFNetworking */; };
 		AD0C0BFB1DFE6360004A7ED0 /* AFHTTPSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = AD0C0BEF1DFE6360004A7ED0 /* AFHTTPSessionManager.m */; };
 		AD0C0BFC1DFE6360004A7ED0 /* AFNetworkReachabilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = AD0C0BF21DFE6360004A7ED0 /* AFNetworkReachabilityManager.m */; };
 		AD0C0BFD1DFE6360004A7ED0 /* AFSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = AD0C0BF41DFE6360004A7ED0 /* AFSecurityPolicy.m */; };
@@ -62,7 +61,6 @@
 		AD096D1A1DFD701E00DE99E5 /* GankTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GankTableViewCell.swift; sourceTree = "<group>"; };
 		AD096D1C1DFD725200DE99E5 /* GankData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GankData.swift; sourceTree = "<group>"; };
 		AD0C0BE11DFD9B27004A7ED0 /* UIKit+AFNetworking */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "UIKit+AFNetworking"; path = "/Users/pkhope/Documents/develop/iOS/gank/gank/UIKit+AFNetworking"; sourceTree = "<absolute>"; };
-		AD0C0BE31DFD9CC4004A7ED0 /* AFNetworking */ = {isa = PBXFileReference; lastKnownFileType = folder; name = AFNetworking; path = /Users/pkhope/Documents/develop/iOS/gank/gank/AFNetworking; sourceTree = "<absolute>"; };
 		AD0C0BE61DFD9E9C004A7ED0 /* gank-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "gank-Bridging-Header.h"; sourceTree = "<group>"; };
 		AD0C0BEE1DFE6360004A7ED0 /* AFHTTPSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AFHTTPSessionManager.h; path = AFNetworking/AFHTTPSessionManager.h; sourceTree = "<group>"; };
 		AD0C0BEF1DFE6360004A7ED0 /* AFHTTPSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AFHTTPSessionManager.m; path = AFNetworking/AFHTTPSessionManager.m; sourceTree = "<group>"; };
@@ -368,7 +366,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AD0C0BE71DFDAA64004A7ED0 /* AFNetworking in Resources */,
 				AD2FB2A71DFBFFF900819E2B /* LaunchScreen.storyboard in Resources */,
 				AD2FB2A41DFBFFF900819E2B /* Assets.xcassets in Resources */,
 				AD0C0BE21DFD9B27004A7ED0 /* UIKit+AFNetworking in Resources */,
